@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// Take last element as pivot
+
 // Function to swap two elements
 void swap(int* a, int* b){
     int temp = *a;
